@@ -1,0 +1,1 @@
+Create a "uploads" folder where all the files are stored to save pdf that are uploaded.
