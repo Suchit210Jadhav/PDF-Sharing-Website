@@ -1,7 +1,7 @@
 <?php
 include "cdn.php";
 include "connect.php";
-$sub = "ada";
+$sub = "rbn";
 $sql_posts = "SELECT * FROM files WHERE subject= '".$sub."'";
 $res_posts = mysqli_query($connect, $sql_posts);
 if(mysqli_num_rows($res_posts) != "")

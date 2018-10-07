@@ -11,7 +11,7 @@
 <body background="connectwork.png";>
 		<nav class="navbar navbar-expand-lg fixed-top navbar-light lgblue">
 		<a class="navbar-brand" href="index.php" style="font-family:Righteous";>
-	    *SOME NAME*
+	    ASSIGN MEANT TO SHARE
 		</a>
 		    <div class="navbar-nav ml-auto">
 			    <a class="nav-item nav-link" href="login.php">UPLOAD</a>
@@ -27,7 +27,7 @@
 				<a href="cn.php" class="btn btn-light buttons"><b>CN</b></a><br><br><br>
 				<a href="dbms.php" class="btn btn-light buttons"><b>DBMS</b></a><br><br><br>
 				<a href="bce.php" class="btn btn-light buttons"><b>BCE</b></a><br><br><br>
-				<a href="ada.php" class="btn btn-light buttons"><b>ADA</b></a><br><br><br>
+				<a href="ada.php" class="btn btn-light"><b>REF BOOKS & NOTES</b></a><br><br><br>
 				<a href="ms.php" class="btn btn-light buttons"><b>MS</b></a>
 			</center>
 		</div>
